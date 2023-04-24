@@ -1,0 +1,1 @@
+document.write("1. 直接電死 ")
