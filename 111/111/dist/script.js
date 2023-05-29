@@ -1,1 +1,7 @@
-document.write("1. 直接電死 ")
+var count = 0;
+    var counterElement = document.getElementById("counter");
+
+    function increment() {
+      count++;
+      counterElement.textContent = count;
+    }

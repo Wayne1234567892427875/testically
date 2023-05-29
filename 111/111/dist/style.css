@@ -1,4 +1,6 @@
-body {background:#D4C878;}
+body {background:#D4C878;
+      text-align:center;
+      color: black;}
 
 p{ 
   background-color: orange;
